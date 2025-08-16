@@ -1,7 +1,9 @@
 # 👾 About Me:
 👋 Hi there
-I am a freelance 🛡️Penetration Tester and 🖥️ IT Administrator In Canada.
-I am also a 🕵️ Privacy Advocate | <br>🤝 Open to collaboration<br>🔗 Owner of this Discord community:<br>https://discord.gg/mRzQ5c3G
+👋 Hi there,
+I am an entrepreneur in Canada and a privacy advocate 🔒. Before that, I worked in cybersecurity 🛡️, electronics repair 🔧, coding instruction 💻, chess coaching ♟️, and more.
+I started in IT at the age of 10 but began studying it seriously at 13. My first IT job was at 16.
+I am also ranked in the top 0.3% in chess worldwide 🌍, but I retired from playing competitively to focus on my career 🚀.| <br>🤝 Open to collaboration<br>🔗 Owner of this Discord community:<br>https://discord.gg/mRzQ5c3G
 
 
 ## 🌐 Socials:
