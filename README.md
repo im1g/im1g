@@ -1,5 +1,4 @@
 # 👾 About Me:
-👋 Hi there
 👋 Hi there,
 I am an entrepreneur in Canada and a privacy advocate 🔒. Before that, I worked in cybersecurity 🛡️, electronics repair 🔧, coding instruction 💻, chess coaching ♟️, and more.
 I started in IT at the age of 10 but began studying it seriously at 13. My first IT job was at 16.
