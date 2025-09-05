@@ -1,4 +1,8 @@
-# 👋 Hi there, I am an Entrepreneur in Canada and a privacy advocate 🔒. Before that, I worked in cybersecurity 🛡️, electronics repair 🔧, coding instruction 💻, chess coaching ♟️, and more. I started in IT at the age of 10, began studying it seriously at 13, and landed my first IT job at 16. I am also ranked in the top 0.3% in chess worldwide 🌍, But I retired from competitive play to focus on my career 🚀.
+#👋 Hi there! I’m an Entrepreneur in Canada and a Privacy Advocate 🔒.
+Before that, I worked in Cybersecurity 🛡️, Electronics Repair 🔧, Coding Instruction 💻, Chess Coaching ♟️, and more.
+
+I started in IT at the age of 10, began studying it seriously at 13, and landed my first IT job at 16.
+I’m also ranked in the top 0.3% in chess worldwide 🌍, though I retired from competitive play to focus on my career 🚀.
 
 🤝 Open to collaboration 
 
