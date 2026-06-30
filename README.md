@@ -1,10 +1,13 @@
-#👋 Hi there! I’m an Entrepreneur in Canada and a Privacy Advocate 🔒.
-Before that, I worked in Cybersecurity 🛡️, Electronics Repair 🔧, Coding Instruction 💻, Chess Coaching ♟️, and more.
+# 👋 Hi there!
 
-I started in IT at the age of 10, began studying it seriously at 13, and landed my first IT job at 16.
-I’m also ranked in the top 0.3% in chess worldwide 🌍, though I retired from competitive play to focus on my career 🚀.
+I'm a Canadian entrepreneur and an accounting student working toward earning my CPA designation.
 
-🤝 Open to collaboration 
+I started programming at the age of 10, began studying IT seriously at 13, and landed my first IT job at 16. I also founded my first business at 16 and now have over 10 years of coding experience and 7+ years of entrepreneurial experience. Today, my business is largely automated, allowing it to continue serving clients and generating revenue with minimal day-to-day involvement. 
+
+Here, I share some of my IT projects and occasionally post business-related content.
+
+♟️ I'm also ranked among the top 0.1% of chess players worldwide, although I haven't studied or played enough to reach my full potential.
+
 
 🔗 Owner of this Discord community: https://discord.gg/mRzQ5c3G 
 
