@@ -2,14 +2,21 @@
 
 I'm a Canadian entrepreneur and an accounting student working toward earning my CPA designation.
 
-I started programming at the age of 10, began studying IT seriously at 13, and landed my first IT job at 16. I also founded my first business at 16 and now have over 10 years of coding experience and 7+ years of entrepreneurial experience. Today, my business is largely automated, allowing it to continue serving clients and generating revenue with minimal day-to-day involvement. 
+I started programming at the age of 10, began studying IT seriously at 13, and landed my first IT job at 16. I also founded my first business at 16 and now have over 7 years of entrepreneurial experience. Today, my business is largely automated, allowing it to continue serving clients and generate revenue with minimal day-to-day involvement.
 
 Here, I share some of my IT projects and occasionally post business-related content.
 
 ♟️ I'm also ranked among the top 0.1% of chess players worldwide, although I haven't studied or played enough to reach my full potential.
 
+🌍 Languages: English, French, Arabic
 
-🔗 Owner of this Discord community: https://discord.gg/mRzQ5c3G 
+🔗 Owner of this Discord community: https://discord.gg/mRzQ5c3G
+
+## 🚀 Some Notable Projects & Contributions
+
+- Developed an early GitHub repository that automated a popular Forza Horizon 6 farming glitch shortly after the game's release. The exploit was later patched by the developers.
+- Developed a Discord bot that helped moderators manage their servers. The project was acquired by a large company in 2023.
+- Discovered and responsibly disclosed a security vulnerability in an open-source project that allowed users to bypass paid licensing features.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/718509603654205502) 
